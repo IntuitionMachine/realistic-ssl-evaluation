@@ -1,9 +1,9 @@
-Open source release of the evaluation benchmark suite described in 
+Open source release of the evaluation benchmark suite described in
 "Realistic Evaluation of Deep Semi-Supervised Learning Algorithms"
 (https://arxiv.org/abs/XXX)
 
 Currently only a placeholder -- code will be put here soon.
 
 Follow this GitHub issue to be notified when the code is
-available: https://github.com/brain-research/issues/1
+available: https://github.com/brain-research/realistic-ssl-evaluation/issues/1
 
